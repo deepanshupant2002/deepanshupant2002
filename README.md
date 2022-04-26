@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Pant</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-- 🔭 I’m currently working on [audio to text](https://github.com/deepanshupant2002/Video_to_text)
+- 🔭 I’m currently working on PowerBI tool (https://github.com/deepanshupant2002/Power_BI_Project)
 
 - 🌱 I’m currently learning **Deep Learning frameworks and Big Data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepanshupant2002](https://github.com/deepanshupant2002)
+- 👨‍💻 All of my projects are available at [https://deepanshupant.tech/](https://deepanshupant.tech/)
 
 - 💬 Ask me about **machine learning, data science, NLP,**
 
-- 📫 How to reach me **deepupant2002@gmail.com**
+- 📫 How to reach me **deepanshu.pant14@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XpLYChaY0DacmXMgDTkHKUzSMuvsqBgL/view?usp=sharing](https://drive.google.com/drive/folders/1lsQUq3eJEppD0YQJF5kLDD7E4i6JUD2e?usp=sharing)
 
