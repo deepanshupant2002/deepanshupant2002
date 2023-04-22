@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning frameworks and Big Data**
 
-- 👨‍💻 All of my projects are available at [https://deepanshupant.tech/](https://deepanshupant.tech/)
+- 👨‍💻 All of my projects are available at [https://deepanshupant.vercel.app/](https://deepanshupant.vercel.app/)
 
 - 💬 Ask me about **machine learning, data science, NLP,**
 
