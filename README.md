@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Pant</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on PowerBI tool (https://github.com/deepanshupant2002/Power_BI_Project)
+- 🔭 I’m currently working on 450 DSA Sheet.
 
-- 🌱 I’m currently learning **Deep Learning frameworks and Big Data**
+- 🌱 I’m currently learning **Software Developer Tools and Frameworks(.Net core)**
 
 - 👨‍💻 All of my projects are available at [https://deepanshupant.vercel.app/](https://deepanshupant.vercel.app/)
 
-- 💬 Ask me about **machine learning, data science, NLP,**
+- 💬 Ask me about **Machine learning, DSA, DataBase, Dotnet**
 
 - 📫 How to reach me **deepanshu.pant14@gmail.com**
 
